@@ -17,6 +17,8 @@ const Inicio=()=>{
 
         </Rows>
 
+        <img src="https://sm.ign.com/t/ign_latam/screenshot/default/avengers-endgame_rvgq.1280.jpg" alt="" />
+
         
   </>
 
